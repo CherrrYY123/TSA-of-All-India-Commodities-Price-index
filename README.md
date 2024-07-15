@@ -1,7 +1,8 @@
 # TSA-of-All-India-Commodities-Price-index
 Time Series Analysis of All India Price Index up till January 2019.
 
-#### Data Source: https://www.data.gov.in/resource/all-india-consumer-price-index-ruralurban-upto-january-2019
+#### Data Source: 
+https://www.data.gov.in/resource/all-india-consumer-price-index-ruralurban-upto-january-2019
 
 - Data from Department Ministry of Statistics and Programme Implementation.
 - Price Index of various commodities present in data.
