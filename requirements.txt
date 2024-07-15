@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+warnings
+datetime
+statsforecast
+statsmodels
+tabulate
+prophet
+scikit-learn
