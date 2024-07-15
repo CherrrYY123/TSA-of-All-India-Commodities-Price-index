@@ -16,6 +16,13 @@ Models Used:
 - AutoARIMA
 - Prophet
 
+#### Based on the error metrics provided for different forecasting models, the Prophet model demonstrates the best performance across all error metrics.
+
+- MAE (Mean Absolute Error): Prophet has the lowest MAE at 3.2, indicating it has the smallest average absolute errors among the models.
+- MAPE (Mean Absolute Percentage Error): Prophet also has the lowest MAPE at 2.45%, showing its superior accuracy in terms of percentage errors.
+- MSE (Mean Squared Error): With the lowest MSE of 15.17, Prophet indicates that it has the smallest squared errors, making it the most precise model.
+- In comparison to other models, Prophet consistently outperforms, making it the most reliable choice for forecasting in this context.
+
 ### Libraries Needed:
 
 ```text
