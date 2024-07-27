@@ -11,8 +11,7 @@ https://www.data.gov.in/resource/all-india-consumer-price-index-ruralurban-upto-
 Models Used:
 - Average
 - Naive
-- Seasonal
-- Naive
+- Seasonal Naive
 - Drift
 - AutoARIMA
 - Prophet
